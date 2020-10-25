@@ -23,24 +23,34 @@ export class AppComponent implements OnInit {
       icon: 'trending-up'
     },
     {
-      title: 'Favorites',
-      url: '/folder/Favorites',
+      title: 'Alerts',
+      url: '/folder/Alerts',
+      icon: 'alert'
+    },
+    {
+      title: 'Watch List',
+      url: '/folder/Watch List',
       icon: 'heart'
     },
     {
-      title: 'Archived',
-      url: '/folder/Archived',
+      title: 'Notifications',
+      url: '/folder/Notifications',
       icon: 'archive'
     },
     {
-      title: 'Trash',
-      url: '/folder/Trash',
-      icon: 'trash'
+      title: 'Performance',
+      url: '/folder/Performance',
+      icon: 'calculator'
+    },
+    {
+      title: 'Position Sizing',
+      url: '/folder/Position Sizing',
+      icon: 'basket'
     },
     {
       title: 'Settings',
       url: '/folder/Settings',
-      icon: 'calculator'
+      icon: 'cog'
     }
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
