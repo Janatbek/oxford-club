@@ -1,0 +1,15 @@
+<!-- <ion-searchbar showCancelButton="focus" ionChange=""></ion-searchbar> -->
+
+<ion-searchbar type="text" debounce="500" (ionChange)="getStocks($event)"></ion-searchbar>
+<ion-list *ngIf="isStockAvailable">
+    <ion-item detail="false" href="stocks/{{stock.symbol}}">
+      <ion-label class="ion-text-wrap">
+        <ion-text color="primary">
+          <h3>{{stock.description}}</h3>
+        </ion-text>
+        <ion-text color="secondary">
+          <p>{{stock.symbol}}</p>
+        </ion-text>
+      </ion-label>
+    </ion-item>
+</ion-list>
