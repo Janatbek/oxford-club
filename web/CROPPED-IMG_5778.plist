@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>413647042000-m3ronannms5nmtuo09jn5g0hcb0allto.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.413647042000-m3ronannms5nmtuo09jn5g0hcb0allto</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC05hdIQ-ZrcS6S5XJpI3W7BV6H0BZPzC4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>413647042000</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.ionic.starter</string>
+	<key>PROJECT_ID</key>
+	<string>war-room-37053</string>
+	<key>STORAGE_BUCKET</key>
+	<string>war-room-37053.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:413647042000:ios:593fb38cb00f46566ff5d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://war-room-37053.firebaseio.com</string>
+</dict>
+</plist>

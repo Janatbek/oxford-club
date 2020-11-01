@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "413647042000",
+    "firebase_url": "https://war-room-37053.firebaseio.com",
+    "project_id": "war-room-37053",
+    "storage_bucket": "war-room-37053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413647042000:android:90320d9803970f6a6ff5d5",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413647042000-psvbh6ecqdsrpjf0nigdq8hhm0tq5msn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDou8_cgKnocy-NFDzH-t37TWVGqqHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413647042000-psvbh6ecqdsrpjf0nigdq8hhm0tq5msn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413647042000-m3ronannms5nmtuo09jn5g0hcb0allto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413647042000:android:288a8e472def98846ff5d5",
+        "android_client_info": {
+          "package_name": "io.ionic.warroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413647042000-psvbh6ecqdsrpjf0nigdq8hhm0tq5msn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDou8_cgKnocy-NFDzH-t37TWVGqqHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413647042000-psvbh6ecqdsrpjf0nigdq8hhm0tq5msn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413647042000-m3ronannms5nmtuo09jn5g0hcb0allto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

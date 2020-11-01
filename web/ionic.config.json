@@ -1,5 +1,8 @@
 {
   "name": "OxfordClub",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }

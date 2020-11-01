@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WarRoom</string>
+    <string name="title_activity_main">WarRoom</string>
+    <string name="package_name">io.ionic.warroom</string>
+    <string name="custom_url_scheme">io.ionic.warroom</string>
+</resources>

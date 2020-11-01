@@ -19,6 +19,14 @@ const routes: Routes = [
       stock: StockResolverService
     },
     loadChildren: () => import('./stock-details/stock-details.module').then( m => m.StockDetailsPageModule)
+  },
+  {
+    path: 'login',
+    loadChildren: () => import('./auth/login/login.module').then( m => m.LoginPageModule)
+  },
+  {
+    path: 'setting',
+    loadChildren: () => import('./settings/setting/setting.module').then( m => m.SettingPageModule)
   }
 ];
 
